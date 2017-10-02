@@ -16,6 +16,7 @@ The non-interactive elements include:
 4. Set alarm value for humidity
 5. System time display
 
+![UI](https://github.com/sameer-vaze/eid-fall2017/blob/master/Project1/git_img.png?raw=true "UI")
 
 ## References
 
